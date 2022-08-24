@@ -20,7 +20,7 @@
 ## 👨 About me:
 <p>
   I am a fast learner, a passionate full stack developer and currently working in fast growing startup. I have experience in Algorithms, Data Structures, Web Development, etc. I love to experiment with new technologies. Subtract work from the day, I am always down for a chat over a cup of coffee.<br>
-Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
+An Experienced Software Developer with a demonstrated history of working in Live Projects & dedicated towards problem solving. Skilled in Python,Django, Angular, TypeScript& DSA. Strong Software Engineering professional with a Bachelor of Technology focused in Computer Science Engineering from UIET - Kurukshetra University.
 </p><br>
 
 <h2>🥇 Specialised in:</h2>
