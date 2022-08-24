@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Profile;My%20name%20is%20Akash%20Mittal,Self%20taught%20Software%20Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Profile;My%20name%20is%20Akash%20Mittal;Self%20taught%20Software%20Developer&center=true&width=500&height=50">
 </p>
 
 
